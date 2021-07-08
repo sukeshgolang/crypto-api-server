@@ -18,6 +18,11 @@ To run source code :
 
 `$ go run main.go`
 
+To access API use following url
+
+http://localhost:8080/currency/ETHBTC
+
+Note : API key and secret key are removed if you want to run code please create account on hitbtc api.
 
 
 # Used libraries
